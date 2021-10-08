@@ -5,10 +5,12 @@ using namespace std;
 #define pb push_back
 #define mp make_pair
 #define all(x) (x).begin(),(x).end()
+#define vo vovels
 #define fst first
 #define snd second
 #define SZ(x) ((int)(x).size())
 #define endl '\n'
+#define no numbers
 #define mst(a, b) memset(a, b, sizeof(a)); // b can be 0 or -1 only
 typedef long long ll;
 typedef vector<int>               vi;
